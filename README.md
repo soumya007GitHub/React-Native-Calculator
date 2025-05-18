@@ -3,7 +3,7 @@
 This is a fully functional, responsive calculator app built with React Native. It supports basic arithmetic operations and includes features like clear (AC), backspace (X), percentage, and real-time expression evaluation using mathjs.
 
 Screenshot -
-<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="150">
+<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200">
 
 
 
