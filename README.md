@@ -2,6 +2,10 @@
 # 📱 React Native Calculator App
 This is a fully functional, responsive calculator app built with React Native. It supports basic arithmetic operations and includes features like clear (AC), backspace (X), percentage, and real-time expression evaluation using mathjs.
 
+Screenshot -
+![SS](https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95)
+
+
 ✨ Features
 Responsive layout across all screen sizes 📐
 
@@ -34,7 +38,7 @@ Add screenshots here if needed.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/react-native-calculator.git
+git clone https://github.com/soumya007GitHub/React-Native-Calculator.git
 cd react-native-calculator
 2. Install dependencies
 bash
