@@ -1,61 +1,80 @@
-
 # 📱 React Native Calculator App
-This is a fully functional, responsive calculator app built with React Native. It supports basic arithmetic operations and includes features like clear (AC), backspace (X), percentage, and real-time expression evaluation using mathjs.
 
-## 📷 Screenshot -
-<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200">
+A fully functional, responsive calculator app built with **React Native**. It supports basic arithmetic operations and includes features like **All Clear (AC)**, **backspace (X)**, **percentage (%)**, and real-time expression evaluation using **mathjs**.
 
+---
+
+## 📷 Screenshot
+
+<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200" alt="Calculator Screenshot">
+
+---
 
 ## ✨ Features
-- Responsive layout across all screen sizes 📐
-- Basic arithmetic: +, -, ×, ÷, %
-- AC button to clear the input
-- X button to delete the last character
-- Decimal point (.) support
-- Expression evaluation using mathjs
-- Clean, modern UI inspired by iOS Calculator
+
+- 📐 **Responsive layout** across all screen sizes  
+- ➕ Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%`  
+- 🧼 **AC button** to clear all input  
+- ⬅️ **Backspace (X)** to delete the last character  
+- 🔢 **Decimal point support**  
+- 🧮 Real-time expression evaluation using `mathjs`  
+- 🧑‍🎨 **Modern UI** inspired by iOS Calculator
+
+---
 
 ## 🛠️ Tech Stack
-- React Native
-- JavaScript
-- mathjs for expression evaluation
-- Responsive design using Dimensions
 
+- **React Native**
+- **JavaScript (ES6+)**
+- [`mathjs`](https://mathjs.org/) for evaluating expressions
+- **Dimensions API** for responsive design
+
+---
 
 ## 🚀 Getting Started
-1. Clone the repository
-   ```bash
--git clone https://github.com/soumya007GitHub/React-Native-Calculator.git
--cd react-native-calculator ```bash
-
+```bash
+### 1. Clone the repository
+git clone https://github.com/soumya007GitHub/React-Native-Calculator.git
+cd React-Native-Calculator
 2. Install dependencies
-    ```bash
--npm install ```bash
-
+npm install
 3. Start the development server
-   
-```bash -npx react-native start ```bash
-
+npx react-native start
 4. Run the app
 On Android:
+npx react-native run-android
+On iOS:
+npx react-native run-ios
+⚠️ Make sure you have set up the React Native environment properly before running the project.
+Follow: React Native Environment Setup
 
-```bash -npx react-native run-android ```bash
-
-On IOS:
-```bash -npx react-native run-ios ```bash
-## 📁 Project Structure
+📁 Project Structure
 .
-├── App.js              # Main calculator app logic and UI
-├── package.json
+├── App.js              # Main calculator UI and logic
+├── package.json        # Project metadata and dependencies
 └── ...
 
-## 📦 Dependencies
--mathjs: For evaluating expressions
--React Native components and hooks
+📦 Dependencies
+react-native: Core framework
 
-## ✅ To Do
--Add dark/light theme toggle
--Support scientific operations (√, sin, cos, etc.)
--Add animation or haptic feedback
+mathjs: For evaluating mathematical expressions
 
-Feel free to modify or expand this README.md as per your project's needs. Let me know if you want a Markdown file generated for download!
+React Native components and hooks (useState, useEffect, etc.)
+
+✅ To Do
+ Add dark/light theme toggle
+
+ Support scientific operations (√, sin, cos, etc.)
+
+ Add animations or haptic feedback for better UX
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙌 Contributions Welcome!
+Feel free to fork this repository, raise issues, or submit pull requests to enhance the app.
+
+“Consistency in learning, exploring, and building is what transforms ideas into real applications.”
+– Developer Reflection
+
+Let me know if you’d like me to generate this as a downloadable `.md` file or help you link this to your GitHub Repository.
