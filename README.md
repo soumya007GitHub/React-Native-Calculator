@@ -25,24 +25,24 @@ This is a fully functional, responsive calculator app built with React Native. I
 ## 🚀 Getting Started
 1. Clone the repository
    ```bash
-git clone https://github.com/soumya007GitHub/React-Native-Calculator.git
-cd react-native-calculator ```bash
+-git clone https://github.com/soumya007GitHub/React-Native-Calculator.git
+-cd react-native-calculator ```bash
 
 2. Install dependencies
     ```bash
-npm install ```bash
+-npm install ```bash
 
 3. Start the development server
    
-```bash npx react-native start ```bash
+```bash -npx react-native start ```bash
 
 4. Run the app
 On Android:
 
-```bash npx react-native run-android ```bash
+```bash -npx react-native run-android ```bash
 
 On IOS:
-```bash npx react-native run-ios ```bash
+```bash -npx react-native run-ios ```bash
 ## 📁 Project Structure
 .
 ├── App.js              # Main calculator app logic and UI
