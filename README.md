@@ -8,6 +8,9 @@ A fully functional, responsive calculator app built with **React Native**. It su
 
 <img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200" alt="Calculator Screenshot">
 
+## 📱 App ZIP
+https://github.com/soumya007GitHub/React-Native-Calculator/blob/main/IOS-Calculator.zip
+
 ---
 
 ## ✨ Features
